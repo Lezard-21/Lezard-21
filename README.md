@@ -29,6 +29,10 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" height="30" alt="Express logo"  />
 </div>
 
 ###
