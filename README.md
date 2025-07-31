@@ -36,7 +36,9 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" height="30" alt="Mysql logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original-wordmark.svg" height="30" alt="Mysql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original-wordmark.svg" height="30" alt="Fast Api logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="30" alt="Git logo"  />
 </div>
 
 ###
