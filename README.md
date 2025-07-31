@@ -24,11 +24,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="SQLAlchemy logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/](https://github.com)devicons/devicon/blob/v2.17.0/icons/vim/vim-plain.svg" height="30" alt="VIM logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vim/vim-plain.svg" height="30" alt="VIM logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh](https://github.com)/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/](https://github.com)devicons/devicon//blob/v2.17.0/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
+  <img src="https://github.com/devicons/devicon//blob/v2.17.0/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
 </div>
 
 ###
